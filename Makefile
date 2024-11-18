@@ -1,5 +1,5 @@
 LOCATION=us
-PROJECT_ID=py-social-listening
+PROJECT_ID=
 ARTIFACT_REGISTRY_REPOSITORY=sl-chat
 IMAGE_NAME=twilio-webhook
 TAG=latest
